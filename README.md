@@ -29,7 +29,7 @@ pip install numpy pandas scikit-learn
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-prediction.git
+gir clone: https://github.com/harshil-1402/weather-prediction
 cd weather-prediction
 ```
 
